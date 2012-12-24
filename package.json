@@ -1,0 +1,13 @@
+{
+  "name": "mongoose-breakage",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongoose": "3.5.x"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha test.spec.js"
+  }
+}
