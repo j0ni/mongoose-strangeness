@@ -1,6 +1,5 @@
 var mongoose = require('mongoose'),
-    ExampleSchema = require('./example'),
-    assert = require('assert');
+    ExampleSchema = require('./example');
 
 describe('mongoose strangeness', function () {
   var connection;
