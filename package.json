@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-breakage",
+  "name": "mongoose-strangeness",
   "version": "0.0.1",
   "dependencies": {
     "mongoose": "3.5.x"
