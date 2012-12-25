@@ -13,4 +13,4 @@ watch: npm-install
 npm-install:
 	@npm install -d
 
-.PHONY: test test-ci npm-install watch
+.PHONY: npm-install watch
