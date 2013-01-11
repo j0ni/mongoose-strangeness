@@ -1,6 +1,6 @@
 # Resolution
 
-This is fixed by e2f177554f8ae33d083e073f9b5510866c46fbb9 - I still
+This is fixed by commit e2f177554f8ae33d083e073f9b5510866c46fbb9 - I still
 have problems in larger contexts, but at least this trivial case is
 explained (see
 https://github.com/LearnBoost/mongoose/issues/1251#issuecomment-11697477
