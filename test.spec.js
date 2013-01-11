@@ -18,7 +18,7 @@ describe('mongoose strangeness', function () {
   });
 
   it('can run repeatedly', function (done) {
-    var Example = mongoose.model('Example', ExampleSchema);
+    var Example = connection.model('Example', ExampleSchema);
     done();
   });
 });
