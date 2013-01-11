@@ -1,8 +1,11 @@
 # Resolution
 
-This is fixed by SHA: e2f177554f8ae33d083e073f9b5510866c46fbb9 - I still
-have problems in larger contexts, but at least this trivial case is
-explained (see
+This is fixed by
+
+* SHA: e2f177554f8ae33d083e073f9b5510866c46fbb9
+
+I still have problems in larger contexts, but at least this trivial
+case is explained (see
 https://github.com/LearnBoost/mongoose/issues/1251#issuecomment-11697477
 for the note from @aheckmann).
 
